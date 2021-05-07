@@ -1,7 +1,7 @@
 # Auto-Form-FIller
 The use of automation and automated processes are consistently increasing, and in next 10-15 years, adoption of automation linked with other technologies like AI will transform the workplace and will increase higher productivity, GDP  growth, improved corporate performance, reduced factory lead times.
 
-AUTO FORM FILLER is a small initiative, a project that aims to automate the form filling process and all it requires is the link of the form. 
+AUTO FORM FILLER which is made using python, is a small initiative, a project that aims to automate the form filling process and all it requires is the link of the form. 
 
 
 # Interface 
@@ -9,7 +9,7 @@ The current interface of the form filler is, when the user enters the link of th
 Th user can choose how many questions or which questions to fill and the form can be submitted anytime on the user's command.
 
 # Working of the AUTO FORM FILLER
-The form filler currently works with 3 pyhton libraries :
+The form filler currently works with 3 python libraries :
 1) selenium: it automates the web-browser, the filling of answers to the respective questions and submission of the form.
 2) requests: it gets the complete contents and information of the site(form in this case).
 3) BeautifulSoup: used for scraping the website and acquring the contents of the form.
