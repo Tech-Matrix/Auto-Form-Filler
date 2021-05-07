@@ -24,6 +24,6 @@ The form filler currently works with 3 pyhton libraries :
 # Contribute to make it better..!
 Auto form filler is still in development phase and all your contributions are warmly welcomed.
 Few contribution suggestions are as follows:
-1)An improved gui interface
-2)Improveents for form filler to work for any kind of form containing any sort of questions.(currently works only for short answer type questions)
+1)An improved gui interface.
+2)Improvements for form filler to work for any kind of form containing any sort of questions.(currently works only for short answer type questions).
 3)A better algorithm for web scraping and filling of answers.
