@@ -1,4 +1,4 @@
-# Auto-Form-FIller
+# Auto-Form-Filler
 The use of automation and automated processes are consistently increasing, and in next 10-15 years, adoption of automation linked with other technologies like AI will transform the workplace and will increase higher productivity, GDP  growth, improved corporate performance, reduced factory lead times.
 
 AUTO FORM FILLER which is made using python, is a small initiative, a project that aims to automate the form filling process and all it requires is the link of the form. 
