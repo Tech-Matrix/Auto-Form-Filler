@@ -14,8 +14,8 @@ The form filler currently works with 3 python libraries :
 2) requests: it gets the complete contents and information of the site(form in this case).
 3) BeautifulSoup: used for scraping the website and acquring the contents of the form.
 4) MongoDB: used for storing the entries in a user specific format and automatically filling the repititive questions.
-5)In some cases, few websites and webbrowsers restrict the working and access to the selenium automation bot hence the user agent of the form filler has also been changed to prevent any restrictions.
-5)Also provides the user an option to save the answers of the form.
+5) In some cases, few websites and webbrowsers restrict the working and access to the selenium automation bot hence the user agent of the form filler has also been changed to prevent any restrictions.
+5) Also provides the user an option to save the answers of the form.
 
 # Libraries to install for the working
 1) pip install requests
